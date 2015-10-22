@@ -8,7 +8,7 @@ This module converts English words to Pig Latin words
 
 __author__ = "Jacob and Farid"
 __email__ = "ses@drsusansim.org"
-__copyright__ = "2015 Susan Sim"
+__copyright__ = "2015 Jacob and Farid"
 __license__ = "MIT License"
 
 
